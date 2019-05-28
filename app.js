@@ -1,0 +1,1 @@
+cosole.long("hola mundo")
